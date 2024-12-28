@@ -1,5 +1,5 @@
 
-<h2>Test Weservice Soap via Soapui WSDL et client Java</h2>
+<h2>Test Webservice Soap via Soapui et un client Java</h2>
 <h3>Lancement du server</h3>
 <img src="Captures/captures_server_ws.png">
 <h3>Affichage du WSDL</h3>
